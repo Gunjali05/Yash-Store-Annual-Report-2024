@@ -6,8 +6,14 @@ Excel dashboard project analyzing Yash Store sales, orders, customer demographic
 ## 📊 Project Overview
 This project is an Excel-based sales dashboard created to analyze the annual performance of Yash Store in 2024.
 
-##Dataset used
+## Dataset used
 - <a href="https://github.com/Gunjali05/Yash-Store-Annual-Report-2024/blob/main/Yash%20Store%20Data%20Analysis.xlsx">Dataset</a>
+
+## 📂 Download Excel File
+
+[Click Here to Download](./Yash%20Store%20Data%20Analysis.xlsx)
+
+---
 
 The dashboard provides insights into:
 - Orders vs Sales trends
