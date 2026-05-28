@@ -6,6 +6,9 @@ Excel dashboard project analyzing Yash Store sales, orders, customer demographic
 ## 📊 Project Overview
 This project is an Excel-based sales dashboard created to analyze the annual performance of Yash Store in 2024.
 
+##Dataset used
+- <a href="https://github.com/Gunjali05/Yash-Store-Annual-Report-2024/blob/main/Yash%20Store%20Data%20Analysis.xlsx">Dataset</a>
+
 The dashboard provides insights into:
 - Orders vs Sales trends
 - Men vs Women sales comparison
@@ -32,12 +35,6 @@ The dashboard provides insights into:
 - Maharashtra generated the highest sales.
 - Amazon and Myntra were top sales channels.
 - Adult age group contributed maximum orders.
-
----
-
-## 📷 Dashboard Screenshot
-
-![Dashboard Screenshot](YashStoredashboard.png)
 
 ---
 
