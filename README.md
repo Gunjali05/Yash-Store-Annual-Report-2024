@@ -13,6 +13,8 @@ This project is an Excel-based sales dashboard created to analyze the annual per
 
 [Click Here to Download](./Yash%20Store%20Data%20Analysis.xlsx)
 
+> Note: GitHub may not preview large Excel files directly. Please download the file to view the complete dashboard.
+
 ---
 
 The dashboard provides insights into:
